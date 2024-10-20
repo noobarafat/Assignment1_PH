@@ -52,7 +52,7 @@ nav {
 
 /* banner style */
 .banner {
-  background-image: url(../B10A1-Challenge-Begins/assets/Hero-bg.png);
+  background-image: url(../assets/Hero-bg.png);
   min-height: 652px;
   left: 0;
   right: 0;
@@ -341,7 +341,7 @@ nav {
     rgba(0, 0, 0, 0.2), 
     rgba(0, 0, 0, 0.2)
   ), 
-  url(../B10A1-Challenge-Begins/assets/handshake.jpg);
+  url(../assets/handshake.jpg);
   min-width: 1140px;
   min-height: 313px;
   margin: 115px 150px;
